@@ -37,6 +37,8 @@ Outside tech, I enjoy video games, training, playing piano and learning language
 You can find me here:
 
 [![GitHub](https://img.shields.io/badge/GitHub%20Profile-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss)
+[![smcristobal07@gmail.com](https://img.shields.io/badge/smcristobal07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
+[![criss.usuario07@gmail.com](https://img.shields.io/badge/criss.usuario07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:criss.usuario07@gmail.com)
 
 ---
 
