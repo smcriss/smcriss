@@ -1,8 +1,8 @@
-# Hey, I'm Cris 👋
+# Hola, Ich bin Cris 👋 !
 
-I'm **Cristóbal Sánchez Mardones**, although most people call me **Cris**. I'm originally from Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
+I'm **Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
-I've always been curious about how computers work — from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, Cisco courses, GitHub, documentation and free learning material.
+I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, Cisco courses, GitHub, documentation and free learning material.
 
 I like learning by actually trying things: writing small programs, opening the terminal, making mistakes, fixing them and slowly understanding why everything works. This profile is a record of that process rather than a finished showcase.
 
@@ -27,7 +27,7 @@ I like learning by actually trying things: writing small programs, opening the t
 
 **IA-Hub** is currently a learning project where I keep my Python exercises, notes and small experiments. I update it as I learn, so it will keep changing over time.
 
-The bigger idea behind it is to gradually build my own personal, automated AI hub — a practical place where I can bring together different AI tools, models, workflows and everything I learn along the way. I would like to have these tools close at hand and understand how each part works, instead of simply using them as a black box.
+The bigger idea behind it is to gradually build my own personal, automated AI hub, a practical place where I can bring together different AI tools, models, workflows and everything I learn along the way. I would like to have these tools close at hand and understand how each part works, instead of simply using them as a black box.
 
 I'm still at the beginning, so the project will grow step by step: first by strengthening my Python and IT foundations, then by exploring modules, files, JSON, APIs, automation and eventually an AI router. The learning process is part of the project.
 
@@ -37,7 +37,7 @@ You can also find some of my Python practice here:
 
 Outside tech, I enjoy video games, training, playing piano and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
 
-## Say hello 👋
+## Say hello !
 
 You can find me here:
 
@@ -49,13 +49,13 @@ You can find me here:
 
 # Hallo, ich bin Cris 👋
 
-Ich heiße **Cristóbal Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
+Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Santiago, Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
 
 Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, aktuelle Cisco-Kurse, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
 
 Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache, sie korrigiere und langsam verstehe, warum etwas funktioniert. Dieses Profil zeigt meinen Lernweg und soll kein fertiges Experten-Portfolio sein.
 
-## Woran ich gerade lerne 🌱
+## Woran ich gerade lerne 🌱 !
 
 ![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
