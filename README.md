@@ -1,43 +1,49 @@
-# Cristóbal Sánchez Mardones
+# Hey, I'm Cris 👋
 
-## IT-Lernender | Vorbereitung auf eine Ausbildung in Deutschland
+I'm **Cristóbal Sánchez Mardones**, although most people call me **Cris**. I'm originally from Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
-Ich baue meine IT-Grundlagen durch selbstständiges und regelmäßiges Lernen von zu Hause aus auf. Mein aktueller Fokus liegt auf Python, Linux, Git/GitHub, PC-Hardware und allgemeinen IT-Grundlagen.
+I've always been curious about how computers work — from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home, through online courses, GitHub, documentation and free learning material.
 
-### Aktueller Lernfokus
+I like learning by actually trying things: writing small programs, opening the terminal, making mistakes, fixing them and slowly understanding why everything works. This profile is a record of that process rather than a finished showcase.
 
-- **Python:** Variablen, Datentypen, Bedingungen, Schleifen, Listen, Dictionaries, Funktionen und erste Programme
-- **Linux:** Ubuntu, Terminal, VS Code und virtuelle Umgebungen
-- **Git & GitHub:** Repositories, Commits und Versionskontrolle
-- **PC-Hardware:** Komponenten, Installation, Einrichtung und erste Fehlerdiagnose
+## What I'm exploring 🌱
 
-### Ausgewähltes Projekt
+![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2ea44f?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- [IA-Hub](https://github.com/smcriss/IA-Hub) – persönliches Lern- und Praxisprojekt mit Python-, Linux- und Git/GitHub-Übungen
+- **Python:** variables, data types, conditions, loops, lists, dictionaries, functions and small programs
+- **Linux:** Ubuntu, the terminal, VS Code and virtual environments
+- **Git & GitHub:** repositories, commits, changes and version control
+- **PC hardware:** components, installation, system setup and first troubleshooting steps
+- **AI tools:** exploring how they can support learning and personal projects
 
-### Ziel
+## A project I'm building 🛠️
 
-Vorbereitung auf eine IT-Ausbildung in Deutschland ab 2027. Ich erweitere mein Wissen Schritt für Schritt durch Online-Kurse, GitHub und frei zugängliches Lernmaterial.
+[![IA-Hub](https://img.shields.io/badge/IA--Hub-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
+
+**IA-Hub** is my personal space for Python exercises, notes and small experiments. I update it as I learn, so it will keep changing over time.
+
+You can also find some of my Python practice here:
+
+[![Python_smcriss](https://img.shields.io/badge/Python__smcriss-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/Python_smcriss)
+
+Outside tech, I enjoy video games, training, playing piano and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
+
+## Say hello 👋
+
+You can find me here:
+
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss)
 
 ---
 
-# Cristóbal Sánchez Mardones · English
+## Kurz auf Deutsch 🇩🇪
 
-## IT learner | Preparing for vocational training in Germany
+Ich heiße **Cristóbal**, aber die meisten nennen mich **Cris**. Ich komme aus Chile und lebe zurzeit in Hamburg.
 
-I am building my IT foundation through consistent self-directed learning from home. My current focus is Python, Linux, Git/GitHub, PC hardware, and general IT fundamentals.
+Ich interessiere mich für Computer, Hardware, Linux und Programmierung. Zurzeit lerne ich Python, Git und andere IT-Grundlagen selbstständig zu Hause. Ich lerne Schritt für Schritt, probiere viel aus und dokumentiere meinen Lernweg hier auf GitHub.
 
-### Current learning focus
-
-- **Python:** variables, data types, conditions, loops, lists, dictionaries, functions, and first programs
-- **Linux:** Ubuntu, terminal, VS Code, and virtual environments
-- **Git & GitHub:** repositories, commits, and version control
-- **PC hardware:** components, installation, setup, and initial troubleshooting
-
-### Featured project
-
-- [IA-Hub](https://github.com/smcriss/IA-Hub) – personal learning and practice project with Python, Linux, and Git/GitHub exercises
-
-### Goal
-
-Preparing for an IT Ausbildung in Germany starting in 2027. I am building my knowledge step by step through online courses, GitHub, and freely available learning material.
+Außerhalb der IT mag ich Videospiele, Sport, Klavier und Sprachen lernen.
