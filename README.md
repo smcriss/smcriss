@@ -1,8 +1,11 @@
 # Hola, Ich bin Cris 👋 !
 
+> 🇬🇧 **English version first. The German version is further below.**  
+> 🇩🇪 **Die englische Version steht zuerst. Die deutsche Version findest du weiter unten.**
+
 I'm **Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
-I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, Cisco courses, GitHub, documentation and free learning material.
+I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, including a Python course through Cisco, GitHub, documentation and free learning material.
 
 I like learning by actually trying things: writing small programs, opening the terminal, making mistakes, fixing them and slowly understanding why everything works. This profile is a record of that process rather than a finished showcase.
 
@@ -18,7 +21,7 @@ I like learning by actually trying things: writing small programs, opening the t
 - **Linux:** Ubuntu, the terminal, VS Code and virtual environments
 - **Git & GitHub:** repositories, commits, changes and version control
 - **PC hardware:** components, installation, system setup and first troubleshooting steps
-- **Cisco courses:** currently learning networking and IT fundamentals through Cisco's learning material
+- **Cisco Python course:** currently learning Python through Cisco's learning material
 - **AI tools:** exploring how they can support learning and personal projects
 
 ## A project I'm building 🛠️
@@ -33,7 +36,7 @@ I'm still at the beginning, so the project will grow step by step: first by stre
 
 You can also find some of my Python practice here:
 
-[![Python_smcriss](https://img.shields.io/badge/Python__smcriss-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/Python_smcriss)
+[![python-learn-rep](https://img.shields.io/badge/python--learn--rep-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
 Outside tech, I enjoy video games, training, playing piano and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
 
@@ -51,7 +54,7 @@ You can find me here:
 
 Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Santiago, Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
 
-Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, aktuelle Cisco-Kurse, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
+Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, darunter einen Python-Kurs von Cisco, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
 
 Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache, sie korrigiere und langsam verstehe, warum etwas funktioniert. Dieses Profil zeigt meinen Lernweg und soll kein fertiges Experten-Portfolio sein.
 
@@ -67,7 +70,7 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 - **Linux:** Ubuntu, Terminal, VS Code und virtuelle Umgebungen
 - **Git & GitHub:** Repositories, Commits, Änderungen und Versionskontrolle
 - **PC-Hardware:** Komponenten, Installation, Einrichtung und erste Schritte bei der Fehlersuche
-- **Cisco-Kurse:** Zurzeit lerne ich mit Cisco-Lernmaterial Netzwerk- und IT-Grundlagen
+- **Cisco-Pythonkurs:** Zurzeit lerne ich Python mit einem Cisco-Kurs
 - **KI-Werkzeuge:** Ich probiere aus, wie sie mich beim Lernen und bei persönlichen Projekten unterstützen können
 
 ## Ein Projekt, das ich aufbaue 🛠️
@@ -82,7 +85,7 @@ Ich stehe damit noch am Anfang. Deshalb wächst das Projekt Schritt für Schritt
 
 Meine Python-Übungen findest du auch hier:
 
-[![Python_smcriss](https://img.shields.io/badge/Python__smcriss-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/Python_smcriss)
+[![python-learn-rep](https://img.shields.io/badge/python--learn--rep-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
 Außerhalb der IT mag ich Videospiele, Sport, Klavier und Sprachen lernen. Ich spreche Spanisch und Englisch und verbessere weiterhin mein Deutsch 🇪🇸🇬🇧🇩🇪
 
