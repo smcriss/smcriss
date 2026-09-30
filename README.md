@@ -1,99 +1,93 @@
-# Hi, I'm Cris 👋
+# Hola, Ich bin Cris 👋 !
 
-> 🇬🇧 English first · 🇩🇪 Die deutsche Version findest du weiter unten.
+> 🇬🇧 **English version**
+> 🇩🇪 **Deutsch unten.**
 
-I am learning programming and IT step by step from home, using online courses, free learning material and a lot of hands-on practice. What started with small Python exercises has become a steady routine: I learn a concept, test it, make mistakes, improve the code and save the progress here.
+**Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
-I enjoy understanding why a program works, not just copying a finished answer. Every exercise in my repositories is part of that process.
+I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, including a Python course through Cisco, GitHub, documentation and free learning material.
 
-![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Practice-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-238636?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Workspace-2ea44f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+I like learning by actually trying things: writing small programs, opening the terminal, making mistakes, fixing them and slowly understanding why everything works. This profile is a record of that process rather than a finished showcase.
 
-## 🌱 My learning progress
+## What I'm exploring 🌱
 
-- **Python foundations:** variables, data types, input and type conversion, strings, formatting, Boolean values and operators.
-- **Program flow:** comparisons, logical operators, `if / elif / else`, nested decisions, `for`, `range()`, `while` and `continue`.
-- **Data and reusable code:** lists, dictionaries, iteration and functions.
-- **Problem-solving practice:** even/odd counters, a secret-number game, tax calculation, Gregorian leap-year checks, vowel-eater exercises, loop-built pyramids and the Collatz sequence.
-- **Current topic:** binary representation, bitwise operators and bit masks.
-- **Development environment:** Ubuntu, terminal commands, VS Code, virtual environments and basic package management with `pip`.
-- **Version control:** Git and GitHub for organizing exercises, documenting changes and keeping a visible learning history.
-- **Course:** Python Essentials through Cisco Networking Academy.
+![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2ea44f?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🧠 Projects
+- **Python:** variables, data types, conditions, loops, lists, dictionaries and functions. I am now combining them in more complete mini-programs with user input, validation and step-by-step logic, while beginning binary numbers, bitwise operators and bit masks
+- **Linux:** Ubuntu, the terminal, VS Code and virtual environments
+- **Git & GitHub:** repositories, commits, changes and version control
+- **Cisco Python course:** currently learning Python through Cisco's learning material
+- **AI tools:** exploring how they can support learning and personal projects
 
-### [IA Hub](https://github.com/smcriss/IA-Hub)
+## A project I'm building 🛠️
 
-My main learning project. IA Hub brings together my Python exercises, notes and experiments in one place. The long-term idea is to turn it into a personal automated AI hub, but right now its most important purpose is practical: helping me understand programming one working piece at a time.
+[![IA-Hub](https://img.shields.io/badge/IA--Hub-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
 
-### [python-learn-rep](https://github.com/smcriss/python-learn-rep)
+**IA-Hub** is currently a learning project where I keep my Python exercises, notes and small experiments. I update it as I learn, so it will keep changing over time. My practice is moving beyond isolated basics as I start connecting several concepts in the same program and solving more demanding logic problems.
 
-A separate space for Python practice, repetition and small experiments while I continue building stronger foundations.
+The bigger idea behind it is to gradually build my own personal, automated AI hub, a practical place where I can bring together different AI tools, models, workflows and everything I learn along the way. I would like to have these tools close at hand and understand how each part works, instead of simply using them as a black box.
 
-## 🎯 What I am working toward
+I'm still at the beginning, so the project will grow step by step.
+Some of my Python practice here:
 
-I have started applying for IT Ausbildung positions in Germany for 2027. Alongside those applications, I keep learning consistently and updating these repositories with real practice. My goal is to arrive at the next stage with a solid base, curiosity and the habit of learning independently.
+[![python-learn-rep](https://img.shields.io/badge/python--learn--rep-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
-## ☕ Outside tech
+I have also started sending applications for IT Ausbildung positions beginning in 2027, while continuing to prepare through programming, Linux and independent study.
 
-Music, training, gaming, exploring Hamburg and learning something new whenever I can.
+Outside tech, I enjoy video games, training, martial arts and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
 
-## 📫 Contact
+You can find me here too:
 
-- [GitHub](https://github.com/smcriss)
-- [smcristobal07@gmail.com](mailto:smcristobal07@gmail.com)
-
-_Last updated: September 2026_
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss)
+[![smcristobal07@gmail.com](https://img.shields.io/badge/smcristobal07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
 
 ---
 
 # Hallo, ich bin Cris 👋
 
-Ich lerne Programmierung und IT Schritt für Schritt von zu Hause aus – mit Online-Kursen, kostenlosen Lernmaterialien und viel praktischer Übung. Was mit kleinen Python-Aufgaben begonnen hat, ist inzwischen zu einer festen Routine geworden: Ich lerne ein Konzept, probiere es aus, mache Fehler, verbessere den Code und dokumentiere meinen Fortschritt hier.
+Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Santiago, Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
 
-Mir ist wichtig zu verstehen, warum ein Programm funktioniert, statt nur eine fertige Lösung zu kopieren. Jede Übung in meinen Repositories gehört zu diesem Lernprozess.
+Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, darunter einen Python-Kurs von Cisco, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
 
-![Python](https://img.shields.io/badge/Python-Lernen-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Praxis-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projekte-238636?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Arbeitsumgebung-2ea44f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache, sie korrigiere und langsam verstehe, warum etwas funktioniert. Dieses Profil zeigt meinen Lernweg und soll kein fertiges Experten-Portfolio sein.
 
-## 🌱 Mein Lernfortschritt
+## Woran ich gerade lerne 🌱
 
-- **Python-Grundlagen:** Variablen, Datentypen, Eingaben und Typumwandlung, Strings, Formatierung, boolesche Werte und Operatoren.
-- **Programmablauf:** Vergleiche, logische Operatoren, `if / elif / else`, verschachtelte Entscheidungen, `for`, `range()`, `while` und `continue`.
-- **Daten und wiederverwendbarer Code:** Listen, Dictionaries, Iterationen und Funktionen.
-- **Übungen zum logischen Denken:** Zähler für gerade und ungerade Zahlen, ein Zahlenratespiel, Steuerberechnung, Prüfung gregorianischer Schaltjahre, Übungen mit Vokalen, mit Schleifen erstellte Pyramiden und die Collatz-Folge.
-- **Aktuelles Thema:** Binärdarstellung, bitweise Operatoren und Bitmasken.
-- **Entwicklungsumgebung:** Ubuntu, Terminalbefehle, VS Code, virtuelle Umgebungen und grundlegende Paketverwaltung mit `pip`.
-- **Versionskontrolle:** Git und GitHub, um Übungen zu organisieren, Änderungen zu dokumentieren und meinen Lernweg sichtbar zu machen.
-- **Kurs:** Python Essentials über die Cisco Networking Academy.
+![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2ea44f?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🧠 Projekte
+- **Python:** Variablen, Datentypen, Bedingungen, Schleifen, Listen, Dictionaries und Funktionen. Inzwischen verbinde ich diese Inhalte in vollständigeren Miniprogrammen mit Benutzereingaben, Validierung und schrittweiser Logik. Zusätzlich beginne ich mit Binärzahlen, bitweisen Operatoren und Bitmasken
+- **Linux:** Ubuntu, Terminal, VS Code und virtuelle Umgebungen
+- **Git & GitHub:** Repositories, Commits, Änderungen und Versionskontrolle
+- **Cisco-Pythonkurs:** Zurzeit lerne ich Python mit einem Cisco-Kurs
+- **KI-Werkzeuge:** Ich probiere aus, wie sie mich beim Lernen und bei persönlichen Projekten unterstützen können
 
-### [IA Hub](https://github.com/smcriss/IA-Hub)
+## Ein Projekt, das ich aufbaue 🛠️
 
-Mein wichtigstes Lernprojekt. IA Hub sammelt meine Python-Übungen, Notizen und Experimente an einem Ort. Langfristig möchte ich daraus meinen eigenen automatisierten KI-Hub entwickeln. Im Moment erfüllt das Projekt aber vor allem einen praktischen Zweck: Programmierung Schritt für Schritt anhand funktionierender Beispiele zu verstehen.
+[![IA-Hub](https://img.shields.io/badge/IA--Hub-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
 
-### [python-learn-rep](https://github.com/smcriss/python-learn-rep)
+**IA-Hub** ist momentan vor allem ein Lernprojekt. Dort sammle ich meine Python-Übungen, Notizen und kleinen Experimente. Das Projekt verändert sich weiter, während ich neue Dinge lerne. Meine Übungen gehen inzwischen über einzelne Grundlagen hinaus, da ich mehrere Konzepte in einem Programm verbinde und anspruchsvollere Logikaufgaben löse.
 
-Ein zusätzlicher Ort für Python-Übungen, Wiederholungen und kleine Experimente, während ich meine Grundlagen weiter festige.
+Die größere Idee dahinter ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub aufzubauen — einen praktischen Ort, an dem ich verschiedene KI-Werkzeuge, Modelle, Workflows und mein neues Wissen miteinander verbinden kann. Ich möchte diese Werkzeuge griffbereit haben und verstehen, wie die einzelnen Teile funktionieren, anstatt sie nur als Blackbox zu benutzen.
 
-## 🎯 Worauf ich hinarbeite
+Ich stehe damit noch am Anfang, deshalb wird das Projekt Schritt für Schritt weiterwachsen.
 
-Ich habe mit Bewerbungen für IT-Ausbildungsplätze in Deutschland mit Start 2027 begonnen. Parallel dazu lerne ich kontinuierlich weiter und aktualisiere meine Repositories mit echter Praxis. Mein Ziel ist es, mit soliden Grundlagen, Neugier und der Gewohnheit zum selbstständigen Lernen in den nächsten Abschnitt zu starten.
+Meine Python-Übungen findest du auch hier:
 
-## ☕ Außerhalb der Technik
+[![python-learn-rep](https://img.shields.io/badge/python--learn--rep-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
-Musik, Training, Gaming, Hamburg entdecken und so oft wie möglich etwas Neues lernen.
+Ich habe außerdem begonnen, Bewerbungen für IT-Ausbildungsplätze mit Start 2027 zu versenden, während ich mich mit Programmierung, Linux und selbstständigem Lernen weiter vorbereite.
 
-## 📫 Kontakt
+Außerhalb der IT mag ich Videospiele, Sport und Sprachen lernen. Ich spreche Spanisch und Englisch und verbessere weiterhin mein Deutsch 🇪🇸🇬🇧🇩🇪
 
-- [GitHub](https://github.com/smcriss)
-- [smcristobal07@gmail.com](mailto:smcristobal07@gmail.com)
+Du findest mich hier:
 
-_Zuletzt aktualisiert: September 2026_
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss)
+[![smcristobal07@gmail.com](https://img.shields.io/badge/smcristobal07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
