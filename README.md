@@ -1,9 +1,9 @@
 # Hola, Ich bin Cris 👋 !
 
-> 🇬🇧 **English version first. The German version is further below.**  
-> 🇩🇪 **Die englische Version steht zuerst. Die deutsche Version findest du weiter unten.**
+> 🇬🇧 **English version**
+> 🇩🇪 **Deutsch unten.**
 
-I'm **Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
+**Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
 I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, including a Python course through Cisco, GitHub, documentation and free learning material.
 
@@ -20,7 +20,6 @@ I like learning by actually trying things: writing small programs, opening the t
 - **Python:** variables, data types, conditions, loops, lists, dictionaries, functions and small programs
 - **Linux:** Ubuntu, the terminal, VS Code and virtual environments
 - **Git & GitHub:** repositories, commits, changes and version control
-- **PC hardware:** components, installation, system setup and first troubleshooting steps
 - **Cisco Python course:** currently learning Python through Cisco's learning material
 - **AI tools:** exploring how they can support learning and personal projects
 
@@ -32,21 +31,17 @@ I like learning by actually trying things: writing small programs, opening the t
 
 The bigger idea behind it is to gradually build my own personal, automated AI hub, a practical place where I can bring together different AI tools, models, workflows and everything I learn along the way. I would like to have these tools close at hand and understand how each part works, instead of simply using them as a black box.
 
-I'm still at the beginning, so the project will grow step by step: first by strengthening my Python and IT foundations, then by exploring modules, files, JSON, APIs, automation and eventually an AI router. The learning process is part of the project.
-
-You can also find some of my Python practice here:
+I'm still at the beginning, so the project will grow step by step.
+Some of my Python practice here:
 
 [![python-learn-rep](https://img.shields.io/badge/python--learn--rep-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
-Outside tech, I enjoy video games, training, playing piano and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
+Outside tech, I enjoy video games, training, martial arts and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
 
-## Say hello !
-
-You can find me here:
+You can find me here too:
 
 [![GitHub](https://img.shields.io/badge/GitHub%20Profile-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss)
 [![smcristobal07@gmail.com](https://img.shields.io/badge/smcristobal07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
-[![criss.usuario07@gmail.com](https://img.shields.io/badge/criss.usuario07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:criss.usuario07@gmail.com)
 
 ---
 
