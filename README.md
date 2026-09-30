@@ -17,11 +17,12 @@ I like learning by actually trying things: writing small programs, opening the t
 ![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2ea44f?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- **Python:** variables, data types, conditions, loops, lists, dictionaries and functions. I am now combining them in more complete mini-programs with user input, validation and step-by-step logic, while beginning binary numbers, bitwise operators and bit masks
-- **Linux:** Ubuntu, the terminal, VS Code and virtual environments
-- **Git & GitHub:** repositories, commits, changes and version control
-- **Cisco Python course:** currently learning Python through Cisco's learning material
-- **AI tools:** exploring how they can support learning and personal projects
+- **Python development:** building interactive mini-programs that combine program flow, data structures, functions, user input, validation and problem-solving
+- **Current concepts:** binary representation, bitwise operators and bit masks
+- **Linux & development workflow:** working with Ubuntu, the terminal, VS Code, virtual environments and `pip`
+- **Git & GitHub:** organising repositories, creating commits, tracking changes and documenting progress
+- **Cisco Python course:** progressing through Python Essentials and applying what I learn in my own code
+- **AI & automation:** building the programming foundation needed to work later with APIs, automation and AI tools
 
 ## A project I'm building 🛠️
 
@@ -63,11 +64,12 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 ![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2ea44f?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- **Python:** Variablen, Datentypen, Bedingungen, Schleifen, Listen, Dictionaries und Funktionen. Inzwischen verbinde ich diese Inhalte in vollständigeren Miniprogrammen mit Benutzereingaben, Validierung und schrittweiser Logik. Zusätzlich beginne ich mit Binärzahlen, bitweisen Operatoren und Bitmasken
-- **Linux:** Ubuntu, Terminal, VS Code und virtuelle Umgebungen
-- **Git & GitHub:** Repositories, Commits, Änderungen und Versionskontrolle
-- **Cisco-Pythonkurs:** Zurzeit lerne ich Python mit einem Cisco-Kurs
-- **KI-Werkzeuge:** Ich probiere aus, wie sie mich beim Lernen und bei persönlichen Projekten unterstützen können
+- **Python-Entwicklung:** Ich entwickle interaktive Miniprogramme, in denen ich Programmabläufe, Datenstrukturen, Funktionen, Benutzereingaben, Validierung und logisches Denken miteinander verbinde
+- **Aktuelle Themen:** Binärdarstellung, bitweise Operatoren und Bitmasken
+- **Linux und Entwicklungsablauf:** Arbeiten mit Ubuntu, Terminal, VS Code, virtuellen Umgebungen und `pip`
+- **Git & GitHub:** Repositories organisieren, Commits erstellen, Änderungen verfolgen und Fortschritte dokumentieren
+- **Cisco-Pythonkurs:** Ich arbeite mich durch Python Essentials und wende das Gelernte in eigenem Code an
+- **KI und Automatisierung:** Aufbau der Programmiergrundlagen, um später mit APIs, Automatisierung und KI-Werkzeugen zu arbeiten
 
 ## Ein Projekt, das ich aufbaue 🛠️
 
