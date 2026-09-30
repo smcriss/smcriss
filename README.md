@@ -53,7 +53,7 @@ Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hard
 
 Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache, sie korrigiere und langsam verstehe, warum etwas funktioniert. Dieses Profil zeigt meinen Lernweg und soll kein fertiges Experten-Portfolio sein.
 
-## Woran ich gerade lerne 🌱 !
+## Woran ich gerade lerne 🌱
 
 ![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
@@ -64,7 +64,6 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 - **Python:** Variablen, Datentypen, Bedingungen, Schleifen, Listen, Dictionaries, Funktionen und kleine Programme
 - **Linux:** Ubuntu, Terminal, VS Code und virtuelle Umgebungen
 - **Git & GitHub:** Repositories, Commits, Änderungen und Versionskontrolle
-- **PC-Hardware:** Komponenten, Installation, Einrichtung und erste Schritte bei der Fehlersuche
 - **Cisco-Pythonkurs:** Zurzeit lerne ich Python mit einem Cisco-Kurs
 - **KI-Werkzeuge:** Ich probiere aus, wie sie mich beim Lernen und bei persönlichen Projekten unterstützen können
 
@@ -76,18 +75,15 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 
 Die größere Idee dahinter ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub aufzubauen — einen praktischen Ort, an dem ich verschiedene KI-Werkzeuge, Modelle, Workflows und mein neues Wissen miteinander verbinden kann. Ich möchte diese Werkzeuge griffbereit haben und verstehen, wie die einzelnen Teile funktionieren, anstatt sie nur als Blackbox zu benutzen.
 
-Ich stehe damit noch am Anfang. Deshalb wächst das Projekt Schritt für Schritt: Zuerst möchte ich meine Python- und IT-Grundlagen stärken, danach mit Modulen, Dateien, JSON, APIs und Automatisierung arbeiten und später einen eigenen AI-Router entwickeln. Der Lernprozess gehört dabei zum Projekt dazu.
+Ich stehe damit noch am Anfang, deshalb wird das Projekt Schritt für Schritt weiterwachsen.
 
 Meine Python-Übungen findest du auch hier:
 
 [![python-learn-rep](https://img.shields.io/badge/python--learn--rep-2ea44f?style=flat-square&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
-Außerhalb der IT mag ich Videospiele, Sport, Klavier und Sprachen lernen. Ich spreche Spanisch und Englisch und verbessere weiterhin mein Deutsch 🇪🇸🇬🇧🇩🇪
-
-## Schreib mir gerne 👋
+Außerhalb der IT mag ich Videospiele, Sport und Sprachen lernen. Ich spreche Spanisch und Englisch und verbessere weiterhin mein Deutsch 🇪🇸🇬🇧🇩🇪
 
 Du findest mich hier:
 
 [![GitHub](https://img.shields.io/badge/GitHub%20Profile-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/smcriss)
 [![smcristobal07@gmail.com](https://img.shields.io/badge/smcristobal07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
-[![criss.usuario07@gmail.com](https://img.shields.io/badge/criss.usuario07%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:criss.usuario07@gmail.com)
