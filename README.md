@@ -11,11 +11,11 @@ I like learning by actually trying things: writing small programs, opening the t
 
 ## What I'm exploring 🌱
 
-![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2ea44f?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-2ea44f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-238636?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Workspace-2ea44f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Python development:** building interactive mini-programs that combine program flow, data structures, functions, user input, validation and problem-solving
 - **Current concepts:** binary representation, bitwise operators and bit masks
@@ -58,11 +58,11 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 
 ## Woran ich gerade lerne 🌱
 
-![Python](https://img.shields.io/badge/Python-2ea44f?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2ea44f?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2ea44f?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2ea44f?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2ea44f?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-2ea44f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-238636?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Workspace-2ea44f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Python-Entwicklung:** Ich entwickle interaktive Miniprogramme, in denen ich Programmabläufe, Datenstrukturen, Funktionen, Benutzereingaben, Validierung und logisches Denken miteinander verbinde
 - **Aktuelle Themen:** Binärdarstellung, bitweise Operatoren und Bitmasken
