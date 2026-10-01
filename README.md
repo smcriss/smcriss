@@ -11,11 +11,11 @@ I like learning by actually trying things: writing small programs, opening the t
 
 ## What I'm exploring 🌱
 
-![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-238636?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Workspace-2ea44f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Workspace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Python development:** building interactive mini-programs that combine program flow, data structures, functions, user input, validation and problem-solving
 - **Current concepts:** binary representation, bitwise operators and bit masks
@@ -26,7 +26,7 @@ I like learning by actually trying things: writing small programs, opening the t
 
 ## A project I'm building 🛠️
 
-[![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
+[![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
 
 **IA-Hub** is currently a learning project where I keep my Python exercises, notes and small experiments. I update it as I learn, so it will keep changing over time. My practice is moving beyond isolated basics as I start connecting several concepts in the same program and solving more demanding logic problems.
 
@@ -35,7 +35,7 @@ The bigger idea behind it is to gradually build my own personal, automated AI hu
 I'm still at the beginning, so the project will grow step by step.
 Some of my Python practice here:
 
-[![python-learn-rep](https://img.shields.io/badge/Python-Learning_Repository-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
+[![python-learn-rep](https://img.shields.io/badge/Python-Learning_Repository-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
 I have also started sending applications for IT Ausbildung positions beginning in 2027, while continuing to prepare through programming, Linux and independent study.
 
@@ -43,8 +43,8 @@ Outside tech, I enjoy video games, training, martial arts and learning languages
 
 You can find me here too:
 
-[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss)
-[![smcristobal07@gmail.com](https://img.shields.io/badge/Email-smcristobal07%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss)
+[![smcristobal07@gmail.com](https://img.shields.io/badge/Email-smcristobal07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
 
 ---
 
@@ -58,11 +58,11 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 
 ## Woran ich gerade lerne 🌱
 
-![Python](https://img.shields.io/badge/Python-Learning-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-238636?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Workspace-2ea44f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Workspace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Python-Entwicklung:** Ich entwickle interaktive Miniprogramme, in denen ich Programmabläufe, Datenstrukturen, Funktionen, Benutzereingaben, Validierung und logisches Denken miteinander verbinde
 - **Aktuelle Themen:** Binärdarstellung, bitweise Operatoren und Bitmasken
@@ -73,7 +73,7 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 
 ## Ein Projekt, das ich aufbaue 🛠️
 
-[![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
+[![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
 
 **IA-Hub** ist momentan vor allem ein Lernprojekt. Dort sammle ich meine Python-Übungen, Notizen und kleinen Experimente. Das Projekt verändert sich weiter, während ich neue Dinge lerne. Meine Übungen gehen inzwischen über einzelne Grundlagen hinaus, da ich mehrere Konzepte in einem Programm verbinde und anspruchsvollere Logikaufgaben löse.
 
@@ -83,7 +83,7 @@ Ich stehe damit noch am Anfang, deshalb wird das Projekt Schritt für Schritt we
 
 Meine Python-Übungen findest du auch hier:
 
-[![python-learn-rep](https://img.shields.io/badge/Python-Learning_Repository-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
+[![python-learn-rep](https://img.shields.io/badge/Python-Learning_Repository-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/smcriss/python-learn-rep)
 
 Ich habe außerdem begonnen, Bewerbungen für IT-Ausbildungsplätze mit Start 2027 zu versenden, während ich mich mit Programmierung, Linux und selbstständigem Lernen weiter vorbereite.
 
@@ -91,5 +91,5 @@ Außerhalb der IT mag ich Videospiele, Sport und Sprachen lernen. Ich spreche Sp
 
 Du findest mich hier:
 
-[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss)
-[![smcristobal07@gmail.com](https://img.shields.io/badge/Email-smcristobal07%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss)
+[![smcristobal07@gmail.com](https://img.shields.io/badge/Email-smcristobal07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
