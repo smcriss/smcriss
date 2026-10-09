@@ -69,13 +69,13 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 - **Cisco Networking Academy:** Ich arbeite daran, Python Essentials 1 und 2 abzuschließen, und wende das Gelernte in eigenem Code an
 - **KI und Automatisierung:** Aufbau der Programmiergrundlagen, um später mit APIs, Automatisierung und KI-Werkzeugen zu arbeiten
 
-## Ein Projekt, das ich aufbaue 🛠️
+## Ein Projekt, an dem ich arbeite 🛠️
 
 [![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
 
-**IA-Hub** ist momentan vor allem ein Lernprojekt. Dort sammle ich meine Python-Übungen, Notizen und kleinen Experimente. Das Projekt verändert sich weiter, während ich neue Dinge lerne. Meine Übungen gehen inzwischen über einzelne Grundlagen hinaus, da ich mehrere Konzepte in einem Programm verbinde und anspruchsvollere Logikaufgaben löse.
+**IA-Hub** ist momentan vor allem ein Lernprojekt. Dort sammle ich meine Python-Übungen und kleinen Experimente. Das Projekt verändert sich weiter, während ich neue Dinge lerne. Meine Übungen gehen inzwischen über einzelne Grundlagen hinaus, da ich mehrere Konzepte in einem Programm verbinde und anspruchsvollere Logikaufgaben löse.
 
-Die größere Idee dahinter ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub aufzubauen — einen praktischen Ort, an dem ich verschiedene KI-Werkzeuge, Modelle, Workflows und mein neues Wissen miteinander verbinden kann. Ich möchte diese Werkzeuge griffbereit haben und verstehen, wie die einzelnen Teile funktionieren, anstatt sie nur als Blackbox zu benutzen.
+Die größere Idee dahinter ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub aufzubauen — einen praktischen Ort, an dem ich verschiedene KI-Werkzeuge, Modelle, Workflows und mein neues Wissen miteinander verbinden kann.
 
 Ich stehe damit noch am Anfang, deshalb wird das Projekt Schritt für Schritt weiterwachsen.
 
@@ -85,9 +85,9 @@ Meine Python-Übungen findest du auch hier:
 
 Ich habe außerdem begonnen, Bewerbungen für IT-Ausbildungsplätze mit Start 2027 zu versenden, während ich mich mit Programmierung, Linux und selbstständigem Lernen weiter vorbereite.
 
-Außerhalb der IT mag ich Videospiele, Sport und Sprachen lernen. Ich spreche Spanisch und Englisch und verbessere weiterhin mein Deutsch 🇪🇸🇬🇧🇩🇪
+Außerhalb der IT mag ich Videospiele, Sport, Kampfsport und das Lernen von Sprachen. Ich spreche Spanisch und Englisch und verbessere weiterhin mein Deutsch 🇪🇸🇬🇧🇩🇪
 
-Du findest mich hier:
+Weitere Links:
 
 [![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss)
 [![smcristobal07@gmail.com](https://img.shields.io/badge/Email-smcristobal07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
