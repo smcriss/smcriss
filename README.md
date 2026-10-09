@@ -23,13 +23,13 @@ I like learning by actually trying things: writing small programs, opening the t
 - **Cisco Networking Academy:** working towards completing Python Essentials 1 and 2 and applying what I learn in my own code
 - **AI & automation:** building the programming foundation needed to work later with APIs, automation and AI tools
 
-## A project I'm building 🛠️
+## A project I'm working on 🛠️
 
 [![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
 
-**IA-Hub** is currently a learning project where I keep my Python exercises, notes and small experiments. I update it as I learn, so it will keep changing over time. My practice is moving beyond isolated basics as I start connecting several concepts in the same program and solving more demanding logic problems.
+**IA-Hub** is currently a learning project where I keep my Python exercises, and small experiments. I update it as I learn, so it will keep changing over time. My practice is moving beyond isolated basics as I start connecting several concepts in the same program and solving more demanding logic problems.
 
-The bigger idea behind it is to gradually build my own personal, automated AI hub, a practical place where I can bring together different AI tools, models, workflows and everything I learn along the way. I would like to have these tools close at hand and understand how each part works, instead of simply using them as a black box.
+The bigger idea behind it is to gradually build my own personal, automated AI hub, a practical place where I can bring together different AI tools, models, workflows and everything I learn along the way.
 
 I'm still at the beginning, so the project will grow step by step.
 Some of my Python practice here:
@@ -40,7 +40,7 @@ I have also started sending applications for IT Ausbildung positions beginning i
 
 Outside tech, I enjoy video games, training, martial arts and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
 
-You can find me here too:
+Other links:
 
 [![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smcriss)
 [![smcristobal07@gmail.com](https://img.shields.io/badge/Email-smcristobal07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
