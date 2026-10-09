@@ -5,7 +5,7 @@
 
 **Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
-I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, including a Python course through Cisco, GitHub, documentation and free learning material.
+I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, including Python Essentials 1 and 2 through Cisco Networking Academy, GitHub, documentation and free learning material.
 
 I like learning by actually trying things: writing small programs, opening the terminal, making mistakes, fixing them and slowly understanding why everything works. This profile is a record of that process rather than a finished showcase.
 
@@ -18,10 +18,9 @@ I like learning by actually trying things: writing small programs, opening the t
 ![VS Code](https://img.shields.io/badge/VS_Code-Workspace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Python development:** building interactive mini-programs that combine program flow, data structures, functions, user input, validation and problem-solving
-- **Current concepts:** binary representation, bitwise operators and bit masks
 - **Linux & development workflow:** working with Ubuntu, the terminal, VS Code, virtual environments and `pip`
 - **Git & GitHub:** organising repositories, creating commits, tracking changes and documenting progress
-- **Cisco Python course:** progressing through Python Essentials and applying what I learn in my own code
+- **Cisco Networking Academy:** working towards completing Python Essentials 1 and 2 and applying what I learn in my own code
 - **AI & automation:** building the programming foundation needed to work later with APIs, automation and AI tools
 
 ## A project I'm building 🛠️
@@ -52,7 +51,7 @@ You can find me here too:
 
 Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Santiago, Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
 
-Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, darunter einen Python-Kurs von Cisco, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
+Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, darunter Python Essentials 1 und 2 der Cisco Networking Academy, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
 
 Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache, sie korrigiere und langsam verstehe, warum etwas funktioniert. Dieses Profil zeigt meinen Lernweg und soll kein fertiges Experten-Portfolio sein.
 
@@ -65,10 +64,9 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 ![VS Code](https://img.shields.io/badge/VS_Code-Workspace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Python-Entwicklung:** Ich entwickle interaktive Miniprogramme, in denen ich Programmabläufe, Datenstrukturen, Funktionen, Benutzereingaben, Validierung und logisches Denken miteinander verbinde
-- **Aktuelle Themen:** Binärdarstellung, bitweise Operatoren und Bitmasken
 - **Linux und Entwicklungsablauf:** Arbeiten mit Ubuntu, Terminal, VS Code, virtuellen Umgebungen und `pip`
 - **Git & GitHub:** Repositories organisieren, Commits erstellen, Änderungen verfolgen und Fortschritte dokumentieren
-- **Cisco-Pythonkurs:** Ich arbeite mich durch Python Essentials und wende das Gelernte in eigenem Code an
+- **Cisco Networking Academy:** Ich arbeite daran, Python Essentials 1 und 2 abzuschließen, und wende das Gelernte in eigenem Code an
 - **KI und Automatisierung:** Aufbau der Programmiergrundlagen, um später mit APIs, Automatisierung und KI-Werkzeugen zu arbeiten
 
 ## Ein Projekt, das ich aufbaue 🛠️
