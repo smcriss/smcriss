@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Cris — Hamburg</title><desc id="desc">A dark blue banner with Cris's name, a small terminal and a stylised Hamburg harbour.</desc>
+<title id="title">SM Cris — Hamburg</title><desc id="desc">A dark blue banner with SM Cris's name, a small terminal and a stylised Hamburg harbour.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d32"/><stop offset="1" stop-color="#132c3d"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#89abc1" stroke-opacity=".055"/></pattern></defs>
 <rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
 <path d="M0 270H1200" stroke="#70d6be" stroke-opacity=".18"/>
@@ -8,14 +8,14 @@
 <path d="M705 270V207M705 212L769 192M705 207L750 192H769M747 199V227"/>
 </g>
 <rect x="58" y="57" width="38" height="4" rx="2" fill="#70d6be"/>
-<text x="58" y="137" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="66" letter-spacing="-2" fill="#f0f6fc">Cris.</text>
+<text x="58" y="137" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="66" letter-spacing="-2" fill="#f0f6fc">SM Cris</text>
 <text x="61" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#b4c8d8">Cristóbal Sánchez</text>
-<text x="61" y="232" font-family="Consolas,monospace" font-size="15" letter-spacing="2" fill="#70d6be">SANTIAGO → HAMBURG</text>
+<text x="61" y="232" font-family="Consolas,monospace" font-size="15" letter-spacing="2" fill="#70d6be">SANTIAGO, CL → HAMBURG, DE</text>
 <g transform="translate(643 52)">
 <rect width="495" height="170" rx="12" fill="#0b1421" stroke="#385268"/>
 <path d="M0 35H495" stroke="#263b4d"/><circle cx="21" cy="18" r="4" fill="#ec8892"/><circle cx="38" cy="18" r="4" fill="#e7c77d"/><circle cx="55" cy="18" r="4" fill="#70d6be"/>
-<text x="473" y="23" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#8299ad">cris@ubuntu: ~</text>
+<text x="473" y="23" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#8299ad">ubuntu: ~</text>
 <text x="24" y="76" font-family="Consolas,monospace" font-size="17" fill="#70d6be">$ whoami</text>
-<text x="24" y="106" font-family="Consolas,monospace" font-size="17" fill="#dce6ef">Cris · Python / Linux / Git</text>
+<text x="24" y="106" font-family="Consolas,monospace" font-size="17" fill="#dce6ef">Python / Linux / Git</text>
 <text x="24" y="142" font-family="Consolas,monospace" font-size="17" fill="#70d6be">$</text><rect x="46" y="128" width="9" height="17" rx="1" fill="#70d6be"/>
 </g></svg>
