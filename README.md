@@ -4,13 +4,11 @@
 
 **Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
-> 🎯 **Ausbildung zum Fachinformatiker · Hamburg · 2027**
->
-> I'm looking for a Fachinformatiker apprenticeship starting in 2027 in Hamburg, while continuing to prepare through programming, Linux and independent study.
+> 🎯 **I'm looking for an Ausbildung zum Fachinformatiker in Hamburg, starting in 2027.**
 
-I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, including Python Essentials 1 and 2 through Cisco Networking Academy, GitHub, documentation and free learning material.
+I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. I'm learning from home with online courses, documentation and projects on GitHub, including Python Essentials 1 and 2 through Cisco Networking Academy.
 
-I like learning by actually trying things: writing small programs, opening the terminal, making mistakes, fixing them and slowly understanding why everything works. This profile is a record of that process.
+I learn best by trying things: writing small programs, using the terminal, making mistakes and figuring out how to fix them. Here I share what I'm working on.
 
 ## What I'm exploring 🌱
 
@@ -29,9 +27,9 @@ I like learning by actually trying things: writing small programs, opening the t
 
 **IA-Hub** is my learning project where I keep my Python exercises and small experiments.
 
-My practice is moving beyond isolated basics as I connect several concepts in the same program and solve more demanding logic problems. It also includes [ConcenTrack](https://github.com/smcriss/IA-Hub/blob/main/projects/concentrack.py), a small terminal program for recording study sessions.
+I'm using what I learn to build small programs, including [ConcenTrack](https://github.com/smcriss/IA-Hub/blob/main/projects/concentrack.py), a small terminal program for recording study sessions.
 
-The bigger idea behind it is to gradually build my own personal, automated AI hub, a practical place where I can bring together different AI tools, models, workflows and everything I learn along the way.
+Over time, I'd like to turn it into a personal hub for AI tools and everyday automation.
 
 Outside tech, I enjoy video games, training, martial arts and learning languages. I speak Spanish and English, and I'm continuing to improve my German 🇪🇸🇬🇧🇩🇪
 
@@ -47,13 +45,11 @@ Outside tech, I enjoy video games, training, martial arts and learning languages
 
 Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Santiago, Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
 
-> 🎯 **Ausbildung zum Fachinformatiker · Hamburg · 2027**
->
-> Ich suche einen Ausbildungsplatz zum Fachinformatiker mit Beginn 2027 in Hamburg und bereite mich darauf mit Programmierung, Linux und selbstständigem Lernen vor.
+> 🎯 **Ich suche einen Ausbildungsplatz zum Fachinformatiker in Hamburg ab 2027.**
 
-Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, darunter Python Essentials 1 und 2 der Cisco Networking Academy, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
+Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Ich lerne zu Hause mit Online-Kursen, Dokumentationen und Projekten auf GitHub. Dazu gehören auch Python Essentials 1 und 2 der Cisco Networking Academy.
 
-Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache, sie korrigiere und langsam verstehe, warum etwas funktioniert. Dieses Profil zeigt meinen Lernweg.
+Ich lerne am besten, indem ich Dinge ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache und herausfinde, wie ich sie beheben kann. Hier zeige ich, woran ich arbeite.
 
 ## Woran ich gerade lerne 🌱
 
@@ -72,9 +68,9 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 
 **IA-Hub** ist mein Lernprojekt. Dort sammle ich meine Python-Übungen und kleinen Experimente.
 
-Meine Übungen gehen inzwischen über einzelne Grundlagen hinaus, da ich mehrere Konzepte in einem Programm verbinde und anspruchsvollere Logikaufgaben löse. Dazu gehört auch [ConcenTrack](https://github.com/smcriss/IA-Hub/blob/main/projects/concentrack.py), ein kleines Terminalprogramm zum Erfassen von Lernsitzungen.
+Mit dem Gelernten schreibe ich kleine Programme, darunter [ConcenTrack](https://github.com/smcriss/IA-Hub/blob/main/projects/concentrack.py), ein kleines Terminalprogramm zum Erfassen von Lernsitzungen.
 
-Die größere Idee dahinter ist, Schritt für Schritt meinen eigenen persönlichen und automatisierten KI-Hub aufzubauen — einen praktischen Ort, an dem ich verschiedene KI-Werkzeuge, Modelle, Workflows und mein neues Wissen miteinander verbinden kann.
+Mit der Zeit möchte ich daraus einen persönlichen Hub für KI-Werkzeuge und Automatisierung im Alltag machen.
 
 Außerhalb der IT mag ich Videospiele, Sport, Kampfsport und das Lernen von Sprachen. Ich spreche Spanisch und Englisch und verbessere weiterhin mein Deutsch 🇪🇸🇬🇧🇩🇪
 
