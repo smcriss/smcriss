@@ -1,8 +1,6 @@
-<a name="english"></a>
-
 # Hola, Ich bin Cris 👋 !
 
-[🇬🇧 English](#user-content-english) · [🇩🇪 Deutsch](#user-content-deutsch)
+[🇬🇧 English](#hola-ich-bin-cris--) · [🇩🇪 Deutsch](#hallo-ich-bin-cris-)
 
 **Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
@@ -44,11 +42,9 @@ Outside tech, I enjoy video games, training, martial arts and learning languages
 
 ---
 
-<a name="deutsch"></a>
-
 # Hallo, ich bin Cris 👋
 
-[🇬🇧 English](#user-content-english) · [🇩🇪 Deutsch](#user-content-deutsch)
+[🇬🇧 English](#hola-ich-bin-cris--) · [🇩🇪 Deutsch](#hallo-ich-bin-cris-)
 
 Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Santiago, Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
 
