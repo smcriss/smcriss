@@ -1,4 +1,8 @@
+![Cris — Cristóbal Sánchez · Santiago → Hamburg](assets/profile-banner.svg)
+
 # Hola, Ich bin Cris 👋 !
+
+![Python · Linux · Git](assets/typing.svg)
 
 [🇬🇧 English](#hola-ich-bin-cris--) · [🇩🇪 Deutsch](#hallo-ich-bin-cris-)
 
