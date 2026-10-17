@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="38" viewBox="0 0 430 38" role="img" aria-labelledby="title">
+<title id="title">Python · Linux · Git</title>
+<defs><clipPath id="reveal"><rect x="30" y="0" width="270" height="38"><animate attributeName="width" values="0;0;270;270;0" keyTimes="0;.08;.50;.94;1" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text x="2" y="26" fill="#3d9e88" font-family="Consolas,monospace" font-size="20">&gt;</text>
+<text x="30" y="26" fill="#3d9e88" font-family="Consolas,monospace" font-size="20" textLength="250" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal)">Python · Linux · Git</text>
+<rect x="287" y="9" width="2" height="21" fill="#3d9e88"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>
