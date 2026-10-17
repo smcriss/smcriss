@@ -5,7 +5,7 @@
 
 **Cristóbal Ignacio Sánchez Mardones**, although most people call me **Cris**. I'm originally from Santiago, Chile and currently living in Hamburg, Germany 🇨🇱🇩🇪
 
-I'm looking for an IT Ausbildung starting in 2027 in Hamburg, while continuing to prepare through programming, Linux and independent study.
+I'm looking for a Fachinformatiker apprenticeship starting in 2027 in Hamburg, while continuing to prepare through programming, Linux and independent study.
 
 I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. At the moment, I'm learning IT little by little from home through online courses, including Python Essentials 1 and 2 through Cisco Networking Academy, GitHub, documentation and free learning material.
 
@@ -46,7 +46,7 @@ Other links:
 
 Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mich **Cris**. Ich komme aus Santiago, Chile und lebe zurzeit in Hamburg 🇨🇱🇩🇪
 
-Ich suche einen Ausbildungsplatz im IT-Bereich mit Beginn 2027 in Hamburg und bereite mich darauf mit Programmierung, Linux und selbstständigem Lernen vor.
+Ich suche einen Ausbildungsplatz zum Fachinformatiker mit Beginn 2027 in Hamburg und bereite mich darauf mit Programmierung, Linux und selbstständigem Lernen vor.
 
 Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Zurzeit lerne ich IT Schritt für Schritt zu Hause. Dabei nutze ich Online-Kurse, darunter Python Essentials 1 und 2 der Cisco Networking Academy, GitHub, Dokumentationen und frei zugängliches Lernmaterial.
 
