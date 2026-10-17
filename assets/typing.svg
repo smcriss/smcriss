@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="38" viewBox="0 0 430 38" role="img" aria-labelledby="title">
 <title id="title">Python · Linux · Git</title>
-<defs><clipPath id="reveal"><rect x="30" y="0" width="270" height="38"><animate attributeName="width" values="0;0;270;270;0" keyTimes="0;.08;.50;.94;1" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs>
+<defs><clipPath id="reveal"><rect x="30" y="0" width="270" height="38"><animate attributeName="width" values="0;0;13;25;38;50;63;75;88;100;113;125;138;150;163;175;188;200;213;225;238;250;250;0" keyTimes="0.0000;0.0800;0.1035;0.1270;0.1505;0.1740;0.1975;0.2210;0.2445;0.2680;0.2915;0.3150;0.3385;0.3620;0.3855;0.4090;0.4325;0.4560;0.4795;0.5030;0.5265;0.5500;0.9400;1.0000" calcMode="discrete" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs>
 <text x="2" y="26" fill="#3d9e88" font-family="Consolas,monospace" font-size="20">&gt;</text>
 <text x="30" y="26" fill="#3d9e88" font-family="Consolas,monospace" font-size="20" textLength="250" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal)">Python · Linux · Git</text>
-<rect x="287" y="9" width="2" height="21" fill="#3d9e88"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<rect x="287" y="9" width="2" height="21" fill="#3d9e88"><animate attributeName="x" values="37;37;50;62;75;87;100;112;125;137;150;162;175;187;200;212;225;237;250;262;275;287;287;37" keyTimes="0.0000;0.0800;0.1035;0.1270;0.1505;0.1740;0.1975;0.2210;0.2445;0.2680;0.2915;0.3150;0.3385;0.3620;0.3855;0.4090;0.4325;0.4560;0.4795;0.5030;0.5265;0.5500;0.9400;1.0000" calcMode="discrete" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </svg>
