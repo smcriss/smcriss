@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">SM Cris — Hamburg</title><desc id="desc">A dark blue banner with SM Cris's name, a small terminal and a stylised Hamburg harbour.</desc>
+<title id="title">smcris — Hamburg</title><desc id="desc">A dark blue banner with smcris's name, a small terminal and a stylised Hamburg harbour.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d32"/><stop offset="1" stop-color="#132c3d"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#89abc1" stroke-opacity=".055"/></pattern></defs>
 <rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
 <path d="M0 270H1200" stroke="#70d6be" stroke-opacity=".18"/>
