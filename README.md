@@ -1,4 +1,4 @@
-![SM Cris — Santiago, CL → Hamburg, DE](assets/profile-banner.svg?v=2)
+![SM Cris — Santiago, CL → Hamburg, DE](assets/profile-banner-color.svg)
 
 # Hola, Ich bin Cris 👋 !
 
