@@ -1,4 +1,4 @@
-![Cris — Cristóbal Sánchez · Santiago → Hamburg](assets/profile-banner.svg)
+![SM Cris — Santiago, CL → Hamburg, DE](assets/profile-banner.svg?v=2)
 
 # Hola, Ich bin Cris 👋 !
 
@@ -16,9 +16,9 @@ I learn best by trying things: writing small programs, using the terminal, makin
 
 ## What I'm exploring 🌱
 
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Python:** learning through exercises and small projects
 - **Linux, Git & GitHub:** working with development tools and version control
@@ -27,7 +27,7 @@ I learn best by trying things: writing small programs, using the terminal, makin
 
 ## A project I'm working on 🛠️
 
-[![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-6F42C1?style=flat&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
+[![IA-Hub](assets/ia-hub-button.svg)](https://github.com/smcriss/IA-Hub)
 
 **IA-Hub** is my learning project where I keep my Python exercises and small experiments.
 
@@ -39,7 +39,7 @@ Outside tech, I enjoy video games, training, martial arts and learning languages
 
 **Contact**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
+[![Email](assets/email-button.svg)](mailto:smcristobal07@gmail.com)
 
 ---
 
@@ -57,9 +57,9 @@ Ich lerne am besten, indem ich Dinge ausprobiere: kleine Programme schreibe, mit
 
 ## Woran ich gerade lerne 🌱
 
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Python:** Lernen durch Übungen und kleine Projekte
 - **Linux, Git & GitHub:** Arbeiten mit Entwicklungswerkzeugen und Versionskontrolle
@@ -68,7 +68,7 @@ Ich lerne am besten, indem ich Dinge ausprobiere: kleine Programme schreibe, mit
 
 ## Ein Projekt, an dem ich arbeite 🛠️
 
-[![IA-Hub](https://img.shields.io/badge/IA--Hub-Learning_Project-6F42C1?style=flat&logo=github&logoColor=white)](https://github.com/smcriss/IA-Hub)
+[![IA-Hub](assets/ia-hub-button.svg)](https://github.com/smcriss/IA-Hub)
 
 **IA-Hub** ist mein Lernprojekt. Dort sammle ich meine Python-Übungen und kleinen Experimente.
 
@@ -80,4 +80,4 @@ Außerhalb der IT mag ich Videospiele, Sport, Kampfsport und das Lernen von Spra
 
 **Kontakt**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:smcristobal07@gmail.com)
+[![Email](assets/email-button.svg)](mailto:smcristobal07@gmail.com)
