@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">smcris — Hamburg</title><desc id="desc">A dark blue banner with smcris's name, a small terminal and a stylised Hamburg harbour.</desc>
+<defs><linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#101b39"/><stop offset=".55" stop-color="#302158"/><stop offset="1" stop-color="#073e50"/></linearGradient><linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#c084fc"/></linearGradient><radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".22"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#89abc1" stroke-opacity=".055"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/><ellipse cx="400" cy="120" rx="350" ry="180" fill="url(#glow)"/><path d="M18 298H1182" stroke="url(#accent)" stroke-width="4"/>
+<path d="M0 270H1200" stroke="#70d6be" stroke-opacity=".18"/>
+<g fill="none" stroke="#6695ad" stroke-opacity=".38" stroke-width="2">
+<path d="M740 270V242H762V223H785V243H809V270M820 270V231H835V211H850V231H868V270M887 270V226L900 208L913 226V270M900 208V180M900 180L895 197H905M932 270V241H952V217H976V241H998V270M1020 270V225H1040V202H1062V225H1080V270M1100 270V218L1120 195L1140 218V270M1120 195V176M1156 270V234H1182V270"/>
+<path d="M705 270V207M705 212L769 192M705 207L750 192H769M747 199V227"/>
+</g>
+<rect x="58" y="57" width="82" height="4" rx="2" fill="#70d6be"/>
+<text x="58" y="137" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="66" letter-spacing="-2" fill="url(#accent)">SM Cris</text>
+<text x="61" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#b4c8d8">Cristóbal Sánchez</text>
+<text x="61" y="232" font-family="Consolas,monospace" font-size="15" letter-spacing="2" fill="#70d6be">SANTIAGO, CL → HAMBURG, DE</text>
+<g transform="translate(643 52)">
+<rect width="495" height="170" rx="12" fill="#0b1421" stroke="#8670c5"/>
+<path d="M0 35H495" stroke="#263b4d"/><circle cx="21" cy="18" r="4" fill="#ec8892"/><circle cx="38" cy="18" r="4" fill="#e7c77d"/><circle cx="55" cy="18" r="4" fill="#70d6be"/>
+<text x="473" y="23" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#8299ad">ubuntu: ~</text>
+<text x="24" y="76" font-family="Consolas,monospace" font-size="17" fill="#70d6be">$ whoami</text>
+<text x="24" y="106" font-family="Consolas,monospace" font-size="17" fill="#dce6ef"><tspan fill="#93c5fd">Python</tspan><tspan fill="#64748b"> / </tspan><tspan fill="#fcd34d">Linux</tspan><tspan fill="#64748b"> / </tspan><tspan fill="#fb923c">Git</tspan></text>
+<text x="24" y="142" font-family="Consolas,monospace" font-size="17" fill="#70d6be">$</text><rect x="46" y="128" width="9" height="17" rx="1" fill="#70d6be"/>
+</g></svg>
