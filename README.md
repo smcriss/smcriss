@@ -18,11 +18,10 @@ I like learning by actually trying things: writing small programs, opening the t
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
 
-- **Python development:** building interactive mini-programs that combine program flow, data structures, functions, user input, validation and problem-solving
-- **Linux & development workflow:** working with Ubuntu, the terminal, VS Code, virtual environments and `pip`
-- **Git & GitHub:** organising repositories, creating commits, tracking changes and documenting progress
-- **Cisco Networking Academy:** working towards completing Python Essentials 1 and 2 and applying what I learn in my own code
-- **AI & automation:** building the programming foundation needed to work later with APIs, automation and AI tools
+- **Python:** learning through exercises and small projects
+- **Linux, Git & GitHub:** working with development tools and version control
+- **Cisco Networking Academy:** Python Essentials 1 and 2 in progress
+- **Interests:** IT fundamentals, automation and AI
 
 ## A project I'm working on 🛠️
 
@@ -62,11 +61,10 @@ Ich lerne am liebsten, indem ich Dinge selbst ausprobiere: kleine Programme schr
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
 
-- **Python-Entwicklung:** Ich entwickle interaktive Miniprogramme, in denen ich Programmabläufe, Datenstrukturen, Funktionen, Benutzereingaben, Validierung und logisches Denken miteinander verbinde
-- **Linux und Entwicklungsablauf:** Arbeiten mit Ubuntu, Terminal, VS Code, virtuellen Umgebungen und `pip`
-- **Git & GitHub:** Repositories organisieren, Commits erstellen, Änderungen verfolgen und Fortschritte dokumentieren
-- **Cisco Networking Academy:** Ich arbeite daran, Python Essentials 1 und 2 abzuschließen, und wende das Gelernte in eigenem Code an
-- **KI und Automatisierung:** Aufbau der Programmiergrundlagen, um später mit APIs, Automatisierung und KI-Werkzeugen zu arbeiten
+- **Python:** Lernen durch Übungen und kleine Projekte
+- **Linux, Git & GitHub:** Arbeiten mit Entwicklungswerkzeugen und Versionskontrolle
+- **Cisco Networking Academy:** Python Essentials 1 und 2 in Bearbeitung
+- **Interessen:** IT-Grundlagen, Automatisierung und KI
 
 ## Ein Projekt, an dem ich arbeite 🛠️
 
