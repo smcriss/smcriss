@@ -10,7 +10,7 @@
 
 > 🎯 **I'm looking for an Ausbildung zum Fachinformatiker in Hamburg, starting in 2027.**
 
-I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. I'm learning from home with online courses, documentation and projects on GitHub, including Python Essentials 1 and 2 through Cisco Networking Academy.
+I've always been curious about how computers work, from PC hardware and operating systems to the code behind everyday tools. I'm learning from home with online courses, documentation and projects on GitHub, with structured courses alongside independent practice.
 
 I learn best by trying things: writing small programs, using the terminal, making mistakes and figuring out how to fix them. Here I share what I'm working on.
 
@@ -22,8 +22,14 @@ I learn best by trying things: writing small programs, using the terminal, makin
 
 - **Python:** learning through exercises and small projects
 - **Linux, Git & GitHub:** working with development tools and version control
-- **Cisco Networking Academy:** Python Essentials 1 and 2 in progress
 - **Interests:** IT fundamentals, automation and AI
+
+## Courses & credentials
+
+[<img src="assets/python-essentials-1-badge.png" width="110" height="110" alt="Cisco Networking Academy — Python Essentials 1" />](https://www.credly.com/badges/aa5b4306-264d-4bfe-bfcf-1bbcf4779fe6/public_url)
+
+**[Python Essentials 1](https://www.credly.com/badges/aa5b4306-264d-4bfe-bfcf-1bbcf4779fe6/public_url)** — Cisco Networking Academy · completed 18 October 2026  
+**Python Essentials 2** — in progress
 
 ## A project I'm working on 🛠️
 
@@ -51,7 +57,7 @@ Ich heiße **Cristóbal Ignacio Sánchez Mardones**, aber die meisten nennen mic
 
 > 🎯 **Ich suche einen Ausbildungsplatz zum Fachinformatiker in Hamburg ab 2027.**
 
-Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Ich lerne zu Hause mit Online-Kursen, Dokumentationen und Projekten auf GitHub. Dazu gehören auch Python Essentials 1 und 2 der Cisco Networking Academy.
+Ich war schon immer neugierig darauf, wie Computer funktionieren — von PC-Hardware und Betriebssystemen bis hin zum Code hinter alltäglichen Anwendungen. Ich lerne zu Hause mit Online-Kursen, Dokumentationen und Projekten auf GitHub. Dabei verbinde ich strukturierte Kurse mit selbstständigen Übungen.
 
 Ich lerne am besten, indem ich Dinge ausprobiere: kleine Programme schreibe, mit dem Terminal arbeite, Fehler mache und herausfinde, wie ich sie beheben kann. Hier zeige ich, woran ich arbeite.
 
@@ -63,8 +69,14 @@ Ich lerne am besten, indem ich Dinge ausprobiere: kleine Programme schreibe, mit
 
 - **Python:** Lernen durch Übungen und kleine Projekte
 - **Linux, Git & GitHub:** Arbeiten mit Entwicklungswerkzeugen und Versionskontrolle
-- **Cisco Networking Academy:** Python Essentials 1 und 2 in Bearbeitung
 - **Interessen:** IT-Grundlagen, Automatisierung und KI
+
+## Kurse & Nachweise
+
+[<img src="assets/python-essentials-1-badge.png" width="110" height="110" alt="Cisco Networking Academy — Python Essentials 1" />](https://www.credly.com/badges/aa5b4306-264d-4bfe-bfcf-1bbcf4779fe6/public_url)
+
+**[Python Essentials 1](https://www.credly.com/badges/aa5b4306-264d-4bfe-bfcf-1bbcf4779fe6/public_url)** — Cisco Networking Academy · abgeschlossen am 18.10.2026  
+**Python Essentials 2** — in Bearbeitung
 
 ## Ein Projekt, an dem ich arbeite 🛠️
 
